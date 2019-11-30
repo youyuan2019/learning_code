@@ -1,2 +1,2 @@
-include ':app', ':clientapp', ':clientapp'
+include ':app', ':clientapp', ':clientapp', ':music_app'
 rootProject.name='ServiceTest'
