@@ -1,2 +1,2 @@
-include ':app', ':remoteapp'
+include ':app', ':clientapp', ':clientapp'
 rootProject.name='ServiceTest'
