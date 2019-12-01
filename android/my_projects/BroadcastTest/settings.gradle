@@ -1,0 +1,2 @@
+include ':app', ':bcsender', ':app2'
+rootProject.name='BroadcastTest'
